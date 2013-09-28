@@ -35,7 +35,3 @@ var M4JS = (function() {
 	};
 })();
 
-for (var pair in M4JS.sumOfDigits) {
-	console.log('pair: ' + pair);
-	console.log('M4JS.sumOfDigits[pair]: ' + M4JS.sumOfDigits[pair]);
-}
